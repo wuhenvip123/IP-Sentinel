@@ -1,3 +1,13 @@
+meteo lyon
+meteo bordeaux
+meteo reims
+toulouse
+giorgia meloni
+weer
+voici
+bourse
+bbc news
+hava durumu
 europe 1
 ascenseur
 sept à huit
@@ -5,7 +15,6 @@ meteo montpellier
 meteo poitiers
 meteo angers
 vigilance forte canicule
-weer
 tgv
 tiempo
 daily mail
@@ -36,7 +45,6 @@ arnaud delvenne
 intoxication
 12 juillet
 resultat foot coupe du monde
-hava durumu
 centre de données
 bison fute samedi 11 juillet
 lune
@@ -90,11 +98,3 @@ la provence
 chine
 portugal vs spain world cup 2026
 équipe de france
-verdict
-resultat bac
-binance
-accident a8
-héritage
-enseignant
-résultat match coupe du monde
-population active
