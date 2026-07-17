@@ -1,3 +1,13 @@
+ok
+temperatura
+ok diario
+weer
+temps
+perro
+météo
+las provincias
+diario de burgos
+eduardo camavinga
 diario de sevilla
 el diario montañes
 elcorreo
@@ -7,10 +17,7 @@ michael olise
 abc
 manuel llamas fernández
 real salt lake - burnley
-weer
-météo
 погода
-temps
 weather
 noticias
 tiempo
@@ -68,7 +75,6 @@ aravind srinivas
 eitb
 boe
 unicaja
-las provincias
 rtve directo
 ferran adrià
 la voz de galicia
@@ -92,9 +98,3 @@ meteorología
 doku
 carmen cervera
 chupinazo san fermin 2026
-pedro blanco
-jordan henderson
-lawfare
-folarin balogun
-resultados mundial
-delcy rodríguez
