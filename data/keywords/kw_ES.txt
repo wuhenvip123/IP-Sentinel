@@ -1,5 +1,14 @@
-wetter
+el progreso
+julito martínez
+diario de cadiz
+el correo alava
+diario sur
 diario de mallorca
+la verdad
+diario de burgos
+letizia ortiz
+expansion
+wetter
 eldiario
 loterias y apuestas
 weer
@@ -23,7 +32,6 @@ temperatura
 ok diario
 perro
 las provincias
-diario de burgos
 eduardo camavinga
 diario de sevilla
 el diario montañes
@@ -90,11 +98,3 @@ aravind srinivas
 eitb
 boe
 unicaja
-rtve directo
-ferran adrià
-la voz de galicia
-el independiente
-partido popular
-semana
-leonor de borbón
-tiempo bilbao

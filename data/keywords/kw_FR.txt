@@ -1,10 +1,18 @@
+cancer
+le monde
+météo paris
+xpeng l03 suv
+rtl2
+meteo nantes
+meteo angers
+amigo
+actualités
 figaro
 ajaccio
 l'etape du tour
 wetter
 swatch omega moonswatch
 weer
-actualités
 avocat
 fourmis
 paris match
@@ -37,7 +45,6 @@ ascenseur
 sept à huit
 meteo montpellier
 meteo poitiers
-meteo angers
 vigilance forte canicule
 tgv
 tiempo
@@ -91,10 +98,3 @@ haut conseil pour le climat
 la depeche
 prix carburant
 thierry valtat grand reporter
-cgt
-feu bordeaux
-nolwenn olivier
-air force one
-graham platner
-engin explosif
-radio
