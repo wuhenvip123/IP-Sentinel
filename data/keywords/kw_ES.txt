@@ -1,10 +1,15 @@
-deportes
+fútbol
 noticias
-música
-museos
-cine
 empleos
+cine
+playa
+música
+nike
+independiente del valle - tolima
 betfair
+cruzeiro - atlético mineiro
+deportes
+museos
 juegos
 talleres - rosario central
 tornado francia
@@ -29,13 +34,11 @@ nfl
 nostradamus
 inter miami - toronto
 clima
-fútbol
 cuponazo
 hoteles
 vuelos
 hospitales
 bancos
-playa
 multa
 copa libertadores
 copa sudamericana
@@ -95,6 +98,3 @@ garnacho
 meteorología
 a
 australia vs bangladesh
-bolívar - são paulo
-muere policia nacional
-blanco
