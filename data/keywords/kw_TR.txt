@@ -1,3 +1,13 @@
+indirim
+arnaud denis
+zehra güneş
+mebbis
+tolga kalender
+orkun kökçü
+afyon hava durumu
+başkan
+eskişehir hava durumu
+manisa hava durumu
 izmir hava durumu
 cnn canlı
 hürriyet
@@ -41,7 +51,6 @@ lockheed martin
 ntv
 teğmen
 bjk hisse
-indirim
 okan kurt
 yusuf dikeç
 gazze
@@ -89,12 +98,3 @@ mahinur özdemir göktaş
 dario amodei
 amerika açık
 üniversite
-istanbul hava durumu
-mehmet davutoğlu
-savcı
-kandilli
-borsa istanbul
-hayvancılık
-gürsel erol
-kaşif kozinoğlu kimdir
-haberturk.com
