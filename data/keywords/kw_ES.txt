@@ -1,3 +1,13 @@
+joan manuel serrat
+hamza abdelkarim
+precio
+gas
+alejandro davidovich fokina
+pedro sánchez
+fran garcía
+martín zubimendi
+abc
+boeing
 decreto
 kiko rivera
 guti
@@ -6,7 +16,6 @@ iván espinosa de los monteros
 morten hjulmand
 alejandra neira
 cambio de hora
-alejandro davidovich fokina
 aterrizaje
 silvia bronchalo
 rande gerber
@@ -79,7 +88,6 @@ cadena 100 por ellas
 autopista
 snake
 inundación
-hamza abdelkarim
 reforma
 alcalde de málaga
 turismo social imserso
@@ -90,11 +98,3 @@ imserso
 alcalde de madrid
 pogoda
 el tiempo en malaga
-barca ayer
-clima hoy
-времето
-tiempo de hoy
-terremoto granada hoy
-terremoto granada
-ign
-docs
